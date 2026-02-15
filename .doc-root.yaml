@@ -1,4 +1,8 @@
 title: Tools & scripts
 syntax: Xml
 supportedLanguages: []
-properties: []
+properties:
+  - name: scipts
+    type: Flag
+    style: purple
+    icon: mouse-pointer-click
